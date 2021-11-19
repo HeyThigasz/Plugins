@@ -1,8 +1,0 @@
-name: TPunir
-author: HeyThigas
-main: me.heythigas.tpunir.Main
-version: 1.0
-description: Um plugin de punir jogadores
-commands:
-   punir:
-     aliases: [ban, banir]
